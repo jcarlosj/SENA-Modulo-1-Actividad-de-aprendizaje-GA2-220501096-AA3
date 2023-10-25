@@ -9,7 +9,7 @@ function multiplosDeTres() {
             contarMultiplos++;
         }
         if ( contarMultiplos === 5 ) {
-            break; // Detener el bucle después de las primeras 5 iteraciones para la traza.
+            break;
         }
     }
     
